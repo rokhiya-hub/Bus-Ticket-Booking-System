@@ -24,21 +24,15 @@ Logged In
 
 Admin
 
-
       Dashboard (Admin Panel)
-
 
       Manage Buses
 
-
       All Bookings
-
 
       Manage Users
 
-
       Revenue Report
-
 
 
 User
@@ -73,6 +67,8 @@ User
 
 
    ProfileFrame
+
+
 
 Author
 
