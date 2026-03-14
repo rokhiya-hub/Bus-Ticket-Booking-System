@@ -11,6 +11,7 @@ Built With
 
 
 Application Flow
+
 LoginFrame
 │
 ├── New User → RegisterFrame → LoginFrame
