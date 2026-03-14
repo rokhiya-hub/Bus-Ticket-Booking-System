@@ -11,30 +11,74 @@ Built With
 
 
 Application Flow
+
+
 LoginFrame
+
+
 New User - RegisterFrame - LoginFrame
+
+
 Logged In 
+
+
 Admin
+
+
       Dashboard (Admin Panel)
+
+
       Manage Buses
+
+
       All Bookings
+
+
       Manage Users
+
+
       Revenue Report
+
+
 
 User
    Dashboard (My Dashboard)
+
+
    Book Ticket
+
+
    BusSearchFrame
+
+
    SeatSelectionFrame
+
+
    PassengerDetailsFrame
+
+
    PaymentFrame
+
+
    TicketFrame
+
+
    My Bookings / Cancel Ticket
+
+
    ViewCancelBookingFrame
+
+
    My Profile
+
+
    ProfileFrame
 
 Author
-Rokhiya Begum 
-B.Tech Student  
+
+
+Rokhiya Begum
+ 
+B.Tech Student
+  
 BusWay Project
